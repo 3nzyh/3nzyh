@@ -1,61 +1,70 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+3nzyh;Discord+Stuff+%26+CSS+Tweaker;Vencord+%2F+Vesktop+Enjoyer" />
-</p>
+<!-- HEADER / NAME -->
+<h1 align="center">3nzyh</h1>
 
 <p align="center">
-  <a href="https://github.com/3nzyh">
-    <img src="https://komarev.com/ghpvc/?username=3nzyh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <i>discord tweaks • css snippets • client mods</i>
+</p>
+
+<p align="center">
+  <!-- عداد مشاهدات (أبيض/أسود تقريبا) -->
+  <img src="https://komarev.com/ghpvc/?username=3nzyh&label=views&color=000000&style=flat" alt="profile views" />
+</p>
+
+---
+
+### about
+
+- messing with **discord clients / css**  
+- mostly into **vencord / equicord** stuff  
+- prefer dark mode, black & white only
+
+---
+
+### discord
+
+<p>
+  <!-- حط رابط ديسكورد حقك هنا -->
+  <a href="https://discord.com/users/786315593963536415">
+    <img src="https://img.shields.io/badge/discord-3nzyh-ffffff?style=for-the-badge&labelColor=000000&color=000000" />
   </a>
 </p>
 
 ---
 
-### 👤 About me
+### discord projects
 
-- 🧪 Playing with **Discord mods / CSS snippets**
-- 🎮 Into **gaming + Discord communities**
-- 🛠️ New to GitHub, but always breaking & fixing stuff
-- 💬 Ask me about Vencord / Vesktop tweaks
+<!-- عداد يدوي لعدد مشاريع ديسكورد -->
+<p>
+  <img src="https://img.shields.io/badge/discord%20projects-3-ffffff?style=for-the-badge&labelColor=000000&color=000000" />
+</p>
+
+<!-- لو عندك ريبوز لبلقنز أو سكربتات ديسكورد، ثبّتها هنا -->
+- [project-1](https://github.com/3nzyh/...) – short line about what it does  
+- [project-2](https://github.com/3nzyh/...)  
+- [project-3](https://github.com/3nzyh/...)
 
 ---
 
-### 🧰 Tech / Tools
+### stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,go,html,css,nodejs,git,vscode" />
+  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/HTML-ffffff?style=flat&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/CSS-ffffff?style=flat&labelColor=000000&color=000000" />
 </p>
 
 ---
 
-### 📂 Pinned stuff
-
-[![CSS Snippets](https://github-readme-stats.vercel.app/api/pin/?username=3nzyh&repo=CSS-Snippets&theme=github_dark&hide_border=true)](https://github.com/3nzyh/CSS-Snippets)
-
----
-
-### 📊 GitHub stats
+### stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=3nzyh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3nzyh&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
-
----
-
-### 🔗 Social / Contact
-
-<p>
-  <a href="https://discord.com/users/000000000000000000">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <!-- عدّل الروابط تحت على حساباتك لو حاب -->
-  <!--
-  <a href="https://twitter.com/your_handle">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="mailto:you@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=3nzyh&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=3nzyh&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"
+    height="150"
+  />
 </p>
