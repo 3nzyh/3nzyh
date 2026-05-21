@@ -1,7 +1,7 @@
 <h1 align="center">;,  3nzyh</h1>
 
 <p align="center">
-  <i>discord clients • css • tweaks</i>
+  <i>discord clients • css • plugins</i>
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 
 ---
 
-<!-- نفس فكرة صف البادجات عند viciouscal لكن أبيض/أسود -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=000000&color=000000" />
@@ -34,20 +33,31 @@
 ### about
 
 - messing with **discord client mods / css**  
-- mostly into **vencord / equicord** stuff  
+- mostly into **vencord / equicord / client tweaks**  
 - dark mode, black & white everything
 
 ---
 
-### discord projects
+### discord plugins
+
+- **Vencord / Equicord tweaks** – small css & qol tweaks for discord clients  
+- **BetterDiscord / client mods** – simple plugins & scripts  
+- **automation / utils** – tools to make servers / chats less annoying  
+
+<!-- استبدل اللي تحت بروابط فعلية لما تنشئ الريبو -->
+<!--
+- [3nzyh-theme](https://github.com/3nzyh/3nzyh-theme) – minimal black & white theme
+- [vc-utils](https://github.com/3nzyh/vc-utils) – voice channel tweaks
+- [better-status](https://github.com/3nzyh/better-status) – status tweaks
+-->
+
+---
+
+### discord projects count
 
 <p align="left">
   <img src="https://img.shields.io/badge/discord%20projects-3-ffffff?style=for-the-badge&labelColor=000000&color=000000&logo=discord&logoColor=ffffff" />
 </p>
-
-- [project-1](https://github.com/3nzyh/...) – short description  
-- [project-2](https://github.com/3nzyh/...)  
-- [project-3](https://github.com/3nzyh/...)
 
 ---
 
