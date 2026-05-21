@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&speed=90&color=FFFFFF&center=true&vCenter=true&width=500&lines=discord+client+mods+%2F+css+%2F+tweaks;projects+2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&speed=90&color=FFFFFF&center=true&vCenter=true&width=500&lines=discord+client+mods+%2F+css+%2F+tweaks;Projects+%7C+__PROJECT_COUNT__" />
 </p>
 
 <p align="center">
