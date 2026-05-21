@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&speed=110&color=FFFFFF&center=true&vCenter=true&width=500&lines=3nzyh;project+3;black+%26+white;discord+mods" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&speed=90&color=FFFFFF&center=true&vCenter=true&width=500&lines=3nzyh;10;rz" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&speed=90&color=FFFFFF&center=true&vCenter=true&width=420&lines=project+3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&speed=90&color=FFFFFF&center=true&vCenter=true&width=500&lines=project+0;project+0;project+0" />
 </p>
 
 <p align="center">
