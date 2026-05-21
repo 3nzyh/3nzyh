@@ -1,9 +1,19 @@
+<!-- HEADER -->
 <h1 align="center">;,  3nzyh</h1>
 
+<!-- OPTIONAL GLITCH SVG (إذا أنشأت glitch-3nzyh.svg) -->
+<!--
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=discord+plugins;css+tweaks;black+%26+white+only" />
+  <img src="./glitch-3nzyh.svg" />
+</p>
+-->
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&speed=120&color=FFFFFF&center=true&vCenter=true&width=500&lines=3nzyh;discord+client+mods;css+tweaks;black+%26+white+only;vencord+%7C+equicord" />
 </p>
 
+<!-- VIEWS + DISCORD -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=3nzyh&style=for-the-badge&color=000000&label=views" alt="views" />
 </p>
@@ -14,13 +24,14 @@
   </a>
 </p>
 
+<!-- TOP WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&text=&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,100:444444&text=&section=header" />
 </p>
 
 ---
 
-<!-- skills badges (أبيض/أسود) -->
+<!-- SKILL BADGES (WHITE/BLACK) -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=000000&color=000000" />
@@ -49,7 +60,7 @@
 - **betterdiscord / client mods** – plugins & scripts to change how discord feels  
 - **automation / utils** – tools to make servers / chatting less annoying  
 
-<!-- هنا بعدين استبدل بالترو ريبوز -->
+<!-- لما تسوي ريبوز حقيقية، شيل الكومنت وحط أشياءك -->
 <!--
 - [3nzyh-theme](https://github.com/3nzyh/3nzyh-theme) – minimal black & white discord theme
 - [vc-utils](https://github.com/3nzyh/vc-utils) – voice channel tweaks
@@ -90,7 +101,7 @@
 
 <p>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=3nzyh&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+    src="https://github-readme-streak-stats.herokuapp.com?user=3nzyh&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
     height="150"
   />
 </p>
@@ -104,4 +115,9 @@
 
 <p align="center">
   <i>if you like something, star it</i>
+</p>
+
+<!-- BOTTOM WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:444444&section=footer" />
 </p>
