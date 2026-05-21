@@ -1,7 +1,7 @@
 <h1 align="center">;,  3nzyh</h1>
 
 <p align="center">
-  <i>discord clients • css • plugins</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=discord+plugins;css+tweaks;black+%26+white+only" />
 </p>
 
 <p align="center">
@@ -14,8 +14,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&text=&section=header" />
+</p>
+
 ---
 
+<!-- skills badges (أبيض/أسود) -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=000000&color=000000" />
@@ -34,21 +39,21 @@
 
 - messing with **discord client mods / css**  
 - mostly into **vencord / equicord / client tweaks**  
-- dark mode, black & white everything
+- dark mode, black & white everything  
 
 ---
 
 ### discord plugins
 
-- **Vencord / Equicord tweaks** – small css & qol tweaks for discord clients  
-- **BetterDiscord / client mods** – simple plugins & scripts  
-- **automation / utils** – tools to make servers / chats less annoying  
+- **vencord / equicord tweaks** – small css & qol tweaks for discord clients  
+- **betterdiscord / client mods** – plugins & scripts to change how discord feels  
+- **automation / utils** – tools to make servers / chatting less annoying  
 
-<!-- استبدل اللي تحت بروابط فعلية لما تنشئ الريبو -->
+<!-- هنا بعدين استبدل بالترو ريبوز -->
 <!--
-- [3nzyh-theme](https://github.com/3nzyh/3nzyh-theme) – minimal black & white theme
+- [3nzyh-theme](https://github.com/3nzyh/3nzyh-theme) – minimal black & white discord theme
 - [vc-utils](https://github.com/3nzyh/vc-utils) – voice channel tweaks
-- [better-status](https://github.com/3nzyh/better-status) – status tweaks
+- [better-status](https://github.com/3nzyh/better-status) – status / activity tweaks
 -->
 
 ---
@@ -56,7 +61,16 @@
 ### discord projects count
 
 <p align="left">
+  <!-- غيّر رقم 3 لعدد مشاريع ديسكورد اللي تحسبها -->
   <img src="https://img.shields.io/badge/discord%20projects-3-ffffff?style=for-the-badge&labelColor=000000&color=000000&logo=discord&logoColor=ffffff" />
+</p>
+
+---
+
+### stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,git,vscode,github" />
 </p>
 
 ---
@@ -74,7 +88,19 @@
   />
 </p>
 
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=3nzyh&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+    height="150"
+  />
+</p>
+
 ---
+
+```text
+> building discord stuff in the dark
+> css, clients, tweaks
+```
 
 <p align="center">
   <i>if you like something, star it</i>
