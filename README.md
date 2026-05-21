@@ -7,12 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&speed=90&color=FFFFFF&center=true&vCenter=true&width=500&lines=discord+client+mods+%2F+css+%2F+tweaks;Projects+%7C+2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&speed=90&color=FFFFFF&center=true&vCenter=true&width=500&lines=discord+client+mods+%2F+css+%2F+tweaks;__PROJECT_COUNT__+repositories" />
 </p>
 
 <p align="center">
   <a href="https://discord.com/users/786315593963536415">
-    <img src="https://img.shields.io/badge/discord-3nzyh-ffffff?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=000000&color=000000" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" height="42" />
+  </a>
+  <a href="https://instagram.com/rzqfk">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" height="42" />
   </a>
 </p>
 
